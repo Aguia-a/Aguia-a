@@ -22,8 +22,12 @@
   - Monitoramento de Rede
 
 ## 💡 Projetos
-- [Contador de Pontuação de Basquete](https://github.com/Aguia-a/basketball-scoreboard):  
+
+- [Contador de Pontuação de Basquete](https://github.com/Aguia-a/basketball-scoreboard):
   Um aplicativo web divertido para manter a contagem dos pontos do seu jogo de basquete (Mas também para outros jogos)! Feito com HTML, CSS, JS e versionado com muita magia do Git.
+
+- [Gerador de Senhas Aleatórias](https://github.com/Aguia-a/password-generator):
+  Um aplicativo web feito para gerar senhas aleatórias seguras, de forma simples e prática. Também abrindo espaço para a customização da senha gerada.
 
 ## 🌐 Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/kauan-rocha-13b5ab304/)
